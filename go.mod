@@ -1,4 +1,4 @@
-module github.com/Marcos14Almeida/mrcmarc.github.io
+module github.com/Marcos14Almeida/mrcmarc
 
 go 1.19
 

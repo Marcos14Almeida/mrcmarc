@@ -1,10 +1,10 @@
 # section information
 section:
-  name: Projects
+  name: Overview
   id: projects
   enable: true
   weight: 9
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

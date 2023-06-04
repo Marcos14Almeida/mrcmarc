@@ -27,12 +27,12 @@ The game consists of guessing the stadium of a soccer team, guessing the soccer 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/stadium guesser/menu.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/stadium guesser/game options.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/stadium guesser/game 1.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/stadium guesser/marker 4.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/stadium guesser/markers.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/stadium guesser/stadium game.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/menu.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/game options.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/game 1.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/marker 4.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/markers.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/stadium guesser/stadium game.jpg" alt="Image 2" style="width: 30%; margin: 10px;">
 </div>
       <figcaption>Stadium Guesser game screenshots</figcaption>
 

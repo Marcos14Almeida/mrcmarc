@@ -37,7 +37,7 @@ In 2021, I learned how to make flutter apps. Therefore, I decided to improved my
 
 ## F-Sim
 
-**Project description**
+**Project description** ([Youtube Video](https://www.youtube.com/watch?v=iPWbzTxw8Ys&t=323s&ab_channel=DavaiApp))
 
 Football Simulator style game in Flutter, for Android devices, still in development. The archive contains hundreds of images of official clubs and leagues, which is why the archive is large and not available on the Play Store due to license issues.
 
@@ -51,12 +51,12 @@ https://github.com/Marcos14Almeida/FIFA-Flutter
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/fifa/home.jpg" alt="home" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/fifa/menu.jpg" alt="menu" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/fifa/gameplay.jpg" alt="gameplay" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/fifa/nacional.jpg" alt="nacional" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/fifa/internacional.jpg" alt="internacional" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/fifa/historic.jpg" alt="historic" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/home.jpg" alt="home" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/menu.jpg" alt="menu" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/gameplay.jpg" alt="gameplay" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/nacional.jpg" alt="nacional" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/internacional.jpg" alt="internacional" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/fifa/historic.jpg" alt="historic" style="width: 30%; margin: 10px;">
 </div>
       <figcaption>Football Simulator game screenshots</figcaption>
 

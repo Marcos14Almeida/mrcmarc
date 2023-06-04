@@ -35,10 +35,10 @@ We've done the first step of creating a report by creating a business model canv
 **Screenshot**
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
-  <img src="/posts/projects/images/inova/sensor.jpg" alt="Image 1" style="width: 10%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/inova/sensor.jpg" alt="Image 1" style="width: 10%; margin: 10px;">
       <figcaption>Patent for a Soil Moisture Sensor</figcaption>
   <br>
-  <img src="/posts/projects/images/inova/graphs.jpg" alt="Image 2" style="width: 50%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/inova/graphs.jpg" alt="Image 2" style="width: 50%; margin: 10px;">
       <figcaption>Patent comparison with a comercial sensor</figcaption>
   <br>
 </div>

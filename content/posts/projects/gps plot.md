@@ -29,10 +29,10 @@ I also developed some electric 3d components in SolidWorks and help in the cost 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/gps/gps_plot.png" alt="pisca" style="width: 40%; margin: 10px;">
-    <img src="/posts/projects/images/gps/car.jpg" alt="pisca" style="width: 40%; margin: 10px;">
-    <img src="/posts/projects/images/gps/view1.png" alt="pisca" style="width: 40%; margin: 10px;">
-    <img src="/posts/projects/images/gps/view2.jpg" alt="pisca" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/gps/gps_plot.png" alt="pisca" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/gps/car.jpg" alt="pisca" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/gps/view1.png" alt="pisca" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/gps/view2.jpg" alt="pisca" style="width: 40%; margin: 10px;">
 </div>
 
 

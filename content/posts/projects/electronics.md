@@ -30,9 +30,9 @@ This work aims at the implementation of electronic concepts for the creation of 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/electronics/tcc car.png" alt="tcc" style="width: 40%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/tcc liceu.png" alt="tcc" style="width: 40%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/tcc prototype.png" alt="tcc" style="width: 60%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/tcc car.png" alt="tcc" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/tcc liceu.png" alt="tcc" style="width: 40%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/tcc prototype.png" alt="tcc" style="width: 60%; margin: 10px;">
 </div>
 
 **Tools**
@@ -60,9 +60,9 @@ An LED bargraph is a visual display that responds to audio frequencies. It consi
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/electronics/liceu bargraph 3.png" alt="pisca" style="width: 50%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/liceu bargraph.png" alt="pisca" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/liceu bargraph 2.png" alt="pisca" style="width: 70%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/liceu bargraph 3.png" alt="pisca" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/liceu bargraph.png" alt="pisca" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/liceu bargraph 2.png" alt="pisca" style="width: 70%; margin: 10px;">
 </div>
 
 **Tools**
@@ -107,9 +107,9 @@ By adjusting the values of the resistors and capacitors in the circuit, you can 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/electronics/pisca 1.jpg" alt="pisca" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/pisca 2.jpg" alt="pisca" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/pisca 3.jpg" alt="pisca" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/pisca 1.jpg" alt="pisca" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/pisca 2.jpg" alt="pisca" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/pisca 3.jpg" alt="pisca" style="width: 30%; margin: 10px;">
 </div>
 
 

@@ -41,32 +41,34 @@ In addition, the project contains the Altium files for creating the 2-sided PCB 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="/posts/projects/images/iot/iot1.jpg" alt="iot" style="width: 30%; margin: 10px;">
-  <img src="/posts/projects/images/iot/iot2.jpg" alt="iot" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/iot/iot1.jpg" alt="iot" style="width: 30%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/iot/iot2.jpg" alt="iot" style="width: 60%; margin: 10px;">
     <figcaption>Final temperature module in operation</figcaption>
 </div>
 
 <br>
 <div style="display: flex; flex-direction: column;  align-items: center;">
-    <img src="/posts/projects/images/iot/tinkercad.jpg" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/tinkercad.jpg" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>3D printed support designed with TinkerCad</figcaption>
   <br>
-    <img src="/posts/projects/images/iot/iot layout.png" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/iot layout.png" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>Temperature module diagram</figcaption>
   <br>
-    <img src="/posts/projects/images/iot/pcb.jpg" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/pcb.jpg" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>Final IoT project board</figcaption>
   <br>
-    <img src="/posts/projects/images/iot/final_module.jpg" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/final_module.jpg" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>Final Weather Station board mounted</figcaption>
   <br>
-    <img src="/posts/projects/images/iot/weather_station.jpg" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/weather_station.jpg" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>Final Weather Station result</figcaption>
   <br>
-    <img src="/posts/projects/images/iot/graph.jpg" alt="iot" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/iot/graph.jpg" alt="iot" style="width: 50%; margin: 10px;">
       <figcaption>Temperature module operating</figcaption>
   <br>
 </div>
+
+
 
 **Tools**
 

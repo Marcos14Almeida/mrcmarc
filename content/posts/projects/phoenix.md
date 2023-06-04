@@ -42,11 +42,11 @@ Occurring once a year the Winter Challenge is one of the biggest robotics compet
 <div style="display: flex;">
   
   <figure style="flex: 1;">
-  <img src="/posts/projects/images/phoenix/team2017.jpg" alt="Image 2" style="width: 95%; height: 200px; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/phoenix/team2017.jpg" alt="Image 2" style="width: 95%; height: 200px; margin: 10px;">
     <figcaption>Equipe Phoenix at Winter Challenge 2017</figcaption>
   </figure>
   <figure style="flex: 1;" align-items="display: flex; justify-content: center; align-items: center;">
-  <img src="/posts/projects/images/phoenix/team2018.jpg" alt="Image 2" style="width: 95%; height: 200px; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/phoenix/team2018.jpg" alt="Image 2" style="width: 95%; height: 200px; margin: 10px;">
     <figcaption>Equipe Phoenix at Winter Challenge 2018</figcaption>
   </figure>
 
@@ -68,10 +68,10 @@ It must be added that I also worked with other robots like "Spartacus" a ramp fi
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
   
-  <img src="/posts/projects/images/phoenix/trekking.png" alt="Image 1" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/phoenix/trekking.png" alt="Image 1" style="width: 60%; margin: 10px;">
     <figcaption>Trakking robots. Baleia in the left and Piranha in the right </figcaption>
 <br>
-  <img src="/posts/projects/images/phoenix/esquematico.png" alt="Image 2" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/phoenix/esquematico.png" alt="Image 2" style="width: 60%; margin: 10px;">
     <figcaption>Piranha circuit and components made by me</figcaption>
 </div>
 
@@ -91,13 +91,13 @@ Between 2018 and 2019 I was the marketing coordinator. I made important contribu
 **Screenshot**
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
-    <img src="/posts/projects/images/phoenix/flyer.jpg" alt="Flyer" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/phoenix/flyer.jpg" alt="Flyer" style="width: 30%; margin: 10px;">
       <figcaption> Flyer to showcase the team to new members</figcaption>
 <br>
-  <img src="/posts/projects/images/phoenix/PS2018.png" alt="Post" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/phoenix/PS2018.png" alt="Post" style="width: 60%; margin: 10px;">
     <figcaption>Selective process post for new members</figcaption>
 <br>
-    <img src="/posts/projects/images/phoenix/phoenix site.png" alt="Website" style="width: 60%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/phoenix/phoenix site.png" alt="Website" style="width: 60%; margin: 10px;">
       <figcaption>Website developed by me using Wix</figcaption>
 </div>
 

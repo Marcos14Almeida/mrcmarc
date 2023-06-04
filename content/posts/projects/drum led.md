@@ -32,10 +32,10 @@ I have an youtube channel where I play some drum covers. ([link](https://www.you
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="/posts/projects/images/electronics/drum_circuit.jpg" alt="drum_circuit" style="width: 60%; margin: 10px;">
-  <img src="/posts/projects/images/electronics/drum2.jpg" alt="drum2" style="width: 50%; margin: 10px;">
-  <img src="/posts/projects/images/electronics/drum3.jpg" alt="drum3" style="width: 40%; margin: 10px;">
-  <img src="/posts/projects/images/electronics/drum1.jpg" alt="drum1" style="width: 40%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/drum_circuit.jpg" alt="drum_circuit" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/drum2.jpg" alt="drum2" style="width: 50%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/drum3.jpg" alt="drum3" style="width: 40%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/drum1.jpg" alt="drum1" style="width: 40%; margin: 10px;">
 
 </div>
 

@@ -30,13 +30,13 @@ My undergraduate thesis consisted of detecting license plates for cars and pedes
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
   
-  <img src="/posts/projects/images/yolo/yolo 1.png" alt="Image 1" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/yolo/yolo 1.png" alt="Image 1" style="width: 60%; margin: 10px;">
     <figcaption>Comparison YOLO versions for license plates</figcaption>
 <br>
-  <img src="/posts/projects/images/yolo/yolo 2.png" alt="Image 2" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/yolo/yolo 2.png" alt="Image 2" style="width: 60%; margin: 10px;">
     <figcaption>Comparison YOLO versions for license plates and pedestrians</figcaption>
 <br>
-  <img src="/posts/projects/images/yolo/yolo 3.png" alt="Image 3" style="width: 60%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/yolo/yolo 3.png" alt="Image 3" style="width: 60%; margin: 10px;">
     <figcaption>Comparison YOLO versions for license plates and pedestrians</figcaption>
 <br>
 

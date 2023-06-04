@@ -31,16 +31,16 @@ This pedal was used for over a year, until I finally decided to buy another peda
 <div style="display: flex; flex-direction: column;  align-items: center;">
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/electronics/guitar pedal 1.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/electronics/guitar pedal 2.jpg" alt="Image 1" style="width: 50%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/guitar pedal 1.jpg" alt="Image 1" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/electronics/guitar pedal 2.jpg" alt="Image 1" style="width: 50%; margin: 10px;">
     <figcaption>Final Guitar Pedal</figcaption>
   </div>
 
 <br>
-  <img src="/posts/projects/images/electronics/guitar pedal 3.png" alt="Image 1" style="width: 80%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/guitar pedal 3.png" alt="Image 1" style="width: 80%; margin: 10px;">
     <figcaption>PCB Layout</figcaption>
 <br>
-  <img src="/posts/projects/images/electronics/guitar pedal diagram.png" alt="Image 1" style="width: 40%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/electronics/guitar pedal diagram.png" alt="Image 1" style="width: 40%; margin: 10px;">
     <figcaption>Project diagram and wiring</figcaption>
 <br>
 

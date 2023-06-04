@@ -32,7 +32,7 @@ A mobile app for Android, powered by flutter, which uses an external API to disp
 **Screenshot**
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
-  <img src="/posts/projects/images/apps/star_wars.jpg" width="20%" align="center" >
+  <img src="/mrcmarc/posts/projects/images/apps/star_wars.jpg" width="20%" align="center" >
 </div>
 
 
@@ -58,7 +58,7 @@ This is a Flutter project for the snakes and ladders game, developed for Android
 **Screenshot**
 
 <div style="display: flex; flex-direction: column;  align-items: center;">
-  <img src="/posts/projects/images/apps/cobras_escadas.jpg" width="20%" align="center" >
+  <img src="/mrcmarc/posts/projects/images/apps/cobras_escadas.jpg" width="20%" align="center" >
 </div>
 
 

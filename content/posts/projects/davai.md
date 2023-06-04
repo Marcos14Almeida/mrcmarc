@@ -54,9 +54,9 @@ Finally, we'll reach out to local music-related establishments to get more data 
 **Screenshot**
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img src="/posts/projects/images/davai/match.png" alt="match" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/davai/filter.png" alt="filter" style="width: 30%; margin: 10px;">
-    <img src="/posts/projects/images/davai/chat.png" alt="chat" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/davai/match.png" alt="match" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/davai/filter.png" alt="filter" style="width: 30%; margin: 10px;">
+    <img src="/mrcmarc/posts/projects/images/davai/chat.png" alt="chat" style="width: 30%; margin: 10px;">
     <figcaption>Davai App Screenshots</figcaption>
 <br>
 </div>
