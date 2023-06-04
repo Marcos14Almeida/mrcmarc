@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos Maso Blog</title>
-    <link>https://Marcos14Almeida/mrcmarc.github.io/</link>
+    <link>https://mrcmarc.github.io/</link>
     <description>Recent content on Marcos Maso Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2023 20:08:28 -0300</lastBuildDate><atom:link href="https://Marcos14Almeida/mrcmarc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+    <lastBuildDate>Wed, 17 May 2023 20:08:28 -0300</lastBuildDate><atom:link href="https://mrcmarc.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
       <title>SGD in fiber optical networks paper</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/sgd/</link>
+      <link>https://mrcmarc.github.io/posts/projects/sgd/</link>
       <pubDate>Wed, 17 May 2023 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/sgd/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/sgd/</guid>
       <description>Development
 Start: 08/2022.
 End: Work In Progress&amp;hellip;
@@ -22,10 +22,10 @@ I participated in the application of a gradient descent algorithm on the digital
     
     <item>
       <title>Football Simulator</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/fifa/</link>
+      <link>https://mrcmarc.github.io/posts/projects/fifa/</link>
       <pubDate>Wed, 10 May 2023 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/fifa/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/fifa/</guid>
       <description>Development
 Start: 03/2014.
 End: Work In Progress&amp;hellip;
@@ -35,10 +35,10 @@ It started in 2014 as a game made with C programming languages. You could transf
     
     <item>
       <title>Machine Learning Guide</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ml-guide/</link>
+      <link>https://mrcmarc.github.io/posts/projects/ml-guide/</link>
       <pubDate>Wed, 10 May 2023 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ml-guide/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/ml-guide/</guid>
       <description>Development
 Start: 10/2022.
 End: 06/2023.
@@ -50,10 +50,10 @@ Ethics Concepts Pre-Processing Feature Selection Regression Classification Clust
     
     <item>
       <title>MBA Big Data and Business Analytics Projects</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/mba/</link>
+      <link>https://mrcmarc.github.io/posts/projects/mba/</link>
       <pubDate>Wed, 10 May 2023 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/mba/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/mba/</guid>
       <description>Development
 Start: 04/2022.
 End: 06/2023.
@@ -65,10 +65,10 @@ Analytical ability: To manage and conduct projects involving structured and unst
     
     <item>
       <title>Introduction</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/introduction/</link>
+      <link>https://mrcmarc.github.io/posts/introduction/</link>
       <pubDate>Sun, 01 Jan 2023 08:06:25 +0600</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/introduction/</guid>
+      <guid>https://mrcmarc.github.io/posts/introduction/</guid>
       <description>Welcome to my data scientist portfolio website!
 I am thrilled to share my passion for data science, analytics, and problem-solving with you.
 As a data scientist, I have dedicated my career to extracting insights from complex data sets, uncovering meaningful patterns, and driving data-driven decision-making. This website serves as a platform to showcase my projects, skills, and expertise in various domains of data science. From predictive modeling and machine learning to data visualization and statistical analysis, I strive to bring value to organizations through the power of data.</description>
@@ -76,10 +76,10 @@ As a data scientist, I have dedicated my career to extracting insights from comp
     
     <item>
       <title>IoT - Temperature module for Weather Station</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/iot/</link>
+      <link>https://mrcmarc.github.io/posts/projects/iot/</link>
       <pubDate>Sat, 10 Dec 2022 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/iot/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/iot/</guid>
       <description>Development
 Start: 08/2022.
 End: 12/2022.
@@ -89,10 +89,10 @@ This project was developed for my IoT class - IE321 - Tópicos em Eletrônica II
     
     <item>
       <title>Stadium Guesser App</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/stadium-guesser/</link>
+      <link>https://mrcmarc.github.io/posts/projects/stadium-guesser/</link>
       <pubDate>Sun, 10 Apr 2022 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/stadium-guesser/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/stadium-guesser/</guid>
       <description>Development
 Start: 07/2022.
 End: 08/2022.
@@ -103,10 +103,10 @@ The game consists of guessing the stadium of a soccer team, guessing the soccer 
     
     <item>
       <title>Davai - Music Social Network App</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/davai/</link>
+      <link>https://mrcmarc.github.io/posts/projects/davai/</link>
       <pubDate>Thu, 10 Mar 2022 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/davai/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/davai/</guid>
       <description>Development
 Start: 01/2021.
 End: 03/2022.
@@ -116,10 +116,10 @@ I am the founder with 2 more colleagues of the Davai app. It&amp;rsquo;s a music
     
     <item>
       <title>Flutter Apps</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/apps/</link>
+      <link>https://mrcmarc.github.io/posts/projects/apps/</link>
       <pubDate>Thu, 10 Feb 2022 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/apps/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/apps/</guid>
       <description>Star Wars App Development
 Start: 02/2022.
 End: 02/2022.
@@ -129,10 +129,10 @@ A mobile app for Android, powered by flutter, which uses an external API to disp
     
     <item>
       <title>Community Supportive App</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ey-solidario/</link>
+      <link>https://mrcmarc.github.io/posts/projects/ey-solidario/</link>
       <pubDate>Fri, 10 Dec 2021 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ey-solidario/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/ey-solidario/</guid>
       <description>Development
 Start: 12/2020.
 End: 12/2020.
@@ -142,10 +142,10 @@ Our group won an EY Business Challenge with this android app idea in december of
     
     <item>
       <title>Detecting license plates and pedestrians using YOLO</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/yolo/</link>
+      <link>https://mrcmarc.github.io/posts/projects/yolo/</link>
       <pubDate>Thu, 10 Dec 2020 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/yolo/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/yolo/</guid>
       <description>Development
 Start: 08/2020.
 End: 12/2020.
@@ -155,10 +155,10 @@ YOLO (You Only Look Once) is a real-time object detection algorithm that can det
     
     <item>
       <title>Homemade Guitar Pedal</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/guitar-pedal/</link>
+      <link>https://mrcmarc.github.io/posts/projects/guitar-pedal/</link>
       <pubDate>Sat, 10 Oct 2020 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/guitar-pedal/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/guitar-pedal/</guid>
       <description>Development
 Start: 07/2020.
 End: 10/2020.
@@ -168,10 +168,10 @@ During the pandemics, I bought a guitar and saw that guitar pedals were extremel
     
     <item>
       <title>Markdown Samples</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/markdown-sample/</link>
+      <link>https://mrcmarc.github.io/posts/markdown-sample/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/markdown-sample/</guid>
+      <guid>https://mrcmarc.github.io/posts/markdown-sample/</guid>
       <description>This is a sample post intended to test the followings:
 A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
 H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
@@ -179,20 +179,20 @@ H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aqu
     
     <item>
       <title>Shortcodes Samples</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/shortcodes/</link>
+      <link>https://mrcmarc.github.io/posts/shortcodes/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/shortcodes/</guid>
+      <guid>https://mrcmarc.github.io/posts/shortcodes/</guid>
       <description>This is a sample post intended to test the followings:
 Create a Hugo Project Default hero image. Different shortcodes. Build a Hugo Toha project https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality Step 1: Fork the example repo and rename At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to .github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.</description>
     </item>
     
     <item>
       <title>Drum LED Project</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/drum-led/</link>
+      <link>https://mrcmarc.github.io/posts/projects/drum-led/</link>
       <pubDate>Sun, 10 May 2020 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/drum-led/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/drum-led/</guid>
       <description>Development
 Start: 03/2020.
 End: 06/2020.
@@ -202,10 +202,10 @@ During the pandemic in 2020, I had the idea and dream of putting LEDs on my batt
     
     <item>
       <title>IST Projects</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ist/</link>
+      <link>https://mrcmarc.github.io/posts/projects/ist/</link>
       <pubDate>Mon, 10 Feb 2020 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/ist/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/ist/</guid>
       <description>Development
 Start: 08/2019.
 End: 02/2020.
@@ -217,10 +217,10 @@ SEITSF project comparing the costs of a photovoltaic project in São Paulo, Braz
     
     <item>
       <title>Phoenix Robotics Team Projects</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/phoenix/</link>
+      <link>https://mrcmarc.github.io/posts/projects/phoenix/</link>
       <pubDate>Sat, 10 Aug 2019 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/phoenix/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/phoenix/</guid>
       <description>Development
 Start: 03/2017.
 End: 06/2019.
@@ -230,10 +230,10 @@ In the robotics team, I participated in the 2017 and 2018 editions of the Winter
     
     <item>
       <title>E-Racing GPS Telemetry</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/gps-plot/</link>
+      <link>https://mrcmarc.github.io/posts/projects/gps-plot/</link>
       <pubDate>Wed, 10 Aug 2016 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/gps-plot/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/gps-plot/</guid>
       <description>Development
 Start: 03/2016.
 End: 08/2016.
@@ -244,10 +244,10 @@ I also developed some electric 3d components in SolidWorks and help in the cost 
     
     <item>
       <title>INOVA Unicamp Entrepreneurship Challenge</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/inova-unicamp/</link>
+      <link>https://mrcmarc.github.io/posts/projects/inova-unicamp/</link>
       <pubDate>Fri, 10 Jun 2016 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/inova-unicamp/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/inova-unicamp/</guid>
       <description>Development
 Start: 03/2021.
 End: 06/2021.
@@ -258,10 +258,10 @@ The objective of the competition is to train people interested in entrepreneursh
     
     <item>
       <title>Python Projects</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/python-projects/</link>
+      <link>https://mrcmarc.github.io/posts/projects/python-projects/</link>
       <pubDate>Thu, 10 Dec 2015 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/python-projects/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/python-projects/</guid>
       <description>Predictions for Bets Project description
 Football Web Scrapper Project description
 Football Champions Web Scrapper Project description
@@ -275,10 +275,10 @@ Test development of a R script in R markdown.</description>
     
     <item>
       <title>Electronics Projects</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/electronics/</link>
+      <link>https://mrcmarc.github.io/posts/projects/electronics/</link>
       <pubDate>Wed, 10 Dec 2014 20:08:28 -0300</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/electronics/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/electronics/</guid>
       <description>TCC Liceu Development
 Start: 09/2014.
 End: 11/2014.
@@ -286,346 +286,46 @@ Project description
 This work aims at the implementation of electronic concepts for the creation of a project that assists the parking of an automotive vehicle. The circuit used will detect obstacles through the use of an ultrasonic sensor, which will emit sound waves that will be reflected by the object. Their return time will determine the distance between the vehicle and the obstacle. If the distance is short, a sound alert will warn the driver, thus avoiding possible accidents and damage to the vehicle.</description>
     </item>
     
-    <item>
-      <title>Resultados de Búsqueda</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
-No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
-Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
-Esta implementación utiliza Fusejs, jquery y mark.js
-Configuración inicial La búsqueda depende del tipo de contenido de salida adicional de JSON en config.</description>
-    </item>
     
-    <item>
-      <title>Resultados de Búsqueda</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>Este archivo existe únicamente para responder a la URL /search con la plantilla de diseño search relacionada.
-No se muestra ningún contenido aquí, todo el contenido se basa en la plantilla layouts/page/search.html
-Establecer una prioridad muy baja en el mapa del sitio le dirá a los motores de búsqueda que éste no es un contenido importante.
-Esta implementación utiliza Fusejs, jquery y mark.js
-Configuración inicial La búsqueda depende del tipo de contenido de salida adicional de JSON en config.</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
-    <item>
-      <title>অনুসন্ধানের ফলাফল</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Tue, 08 Jun 2010 08:06:25 +0600</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
     <item>
       <title></title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/excel/</link>
+      <link>https://mrcmarc.github.io/posts/projects/excel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/excel/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/excel/</guid>
       <description>&amp;mdash; title: &amp;ldquo;Excel Projects&amp;rdquo; hero: /images/projects/electronics.jpg date: 2014-12-10T20:08:28-03:00 description: Excel Projects theme: Toha menu: sidebar: name: Excel Projects identifier: excel parent: projects weight: 500 &amp;mdash; Football Matchs analysis &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Project Description(Link to Excel Sheet) Sheet with the latest results from the leagues from: Spain, Brazil, England, # Italy, Germany. Then it generates an database to compare the performance of the # clubs. Best Football Players &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; Project Description([Link to Excel Sheet](https://docs.</description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/books/</link>
+      <link>https://mrcmarc.github.io/posts/projects/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/posts/projects/books/</guid>
+      <guid>https://mrcmarc.github.io/posts/projects/books/</guid>
       <description>Books I have read The Lean Startup: How Today&amp;rsquo;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries (Link to book)
 Leading digital: turning technology into business transformation by George Westerman (Link to book)
 Clean Code: A Handbook of Agile Software Craftsmanship by Martin Robert C. (Link to book)
@@ -633,18 +333,6 @@ Storytelling with Data: A Data Visualization Guide for Business Professionals by
 Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Tom Fawcett and Foster Provost (Link to book)</description>
     </item>
     
-    <item>
-      <title>Search Results</title>
-      <link>https://Marcos14Almeida/mrcmarc.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://Marcos14Almeida/mrcmarc.github.io/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description>
-    </item>
     
     
   </channel>
