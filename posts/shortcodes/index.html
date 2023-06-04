@@ -21,7 +21,7 @@
   
   
 
-  <link rel="icon" type="image/png" href="/mrcmarc.github.io/images/site/favicon_hub02d7508a1c89b2b7812eab204efeb9a_4223_42x0_resize_box_3.png" />
+  <link rel="icon" type="image/png" href="/mrcmarc.github.io/images/site/favicon_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" />
 
 <meta property="og:title" content="Shortcodes Samples" />
 <meta property="og:description" content="Shortcodes sample" />
@@ -151,7 +151,7 @@ if (!doNotTrack) {
     <img src="/mrcmarc.github.io/images/site/main-logo_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" class="d-none" id="main-logo" alt="Logo">
   
   
-    <img src="/mrcmarc.github.io/images/site/inverted-logo_hub02d7508a1c89b2b7812eab204efeb9a_4223_42x0_resize_box_3.png" class="d-none" id="inverted-logo" alt="Inverted Logo">
+    <img src="/mrcmarc.github.io/images/site/inverted-logo_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" class="d-none" id="inverted-logo" alt="Inverted Logo">
   
 </nav>
 
@@ -176,7 +176,7 @@ if (!doNotTrack) {
   
   
     
-    <li><a class="" href="/mrcmarc.github.io/posts/introduction/" title="ভূমিকা">ভূমিকা</a></li>
+    <li><a class="" href="/mrcmarc.github.io/posts/introduction/" title="Introduction">Introduction</a></li>
   
 
   
@@ -426,9 +426,56 @@ if (!doNotTrack) {
         <div class="post-content" id="post-content">
           <p>This is a sample post intended to test the followings:</p>
 <ul>
+<li>Create a Hugo Project</li>
 <li>Default hero image.</li>
 <li>Different shortcodes.</li>
 </ul>
+<h1 id="build-a-hugo-toha-project">Build a Hugo Toha project</h1>
+<ul>
+<li><a href="https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality" target="_blank" rel="noopener">https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality</a></li>
+</ul>
+<h2 id="step-1-fork-the-example-repo-and-rename">Step 1: Fork the example repo and rename</h2>
+<p>At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to <your username>.github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.</p>
+<h2 id="step-2-clone-the-forked-repo-locally">Step 2: Clone the forked repo locally</h2>
+<p>Once you have forked and renamed the repository, you can now clone the forked repository in your local machine for further changes.</p>
+<p>git clone <a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>&lt;&gt;your username&lt;&gt;/&lt;&gt;forked repo name&lt;&gt;</p>
+<h2 id="step-3-update-the-module-file">Step 3: Update the module file</h2>
+<p>You should see go.mod files in the root of the repository. Update the first line of the go.mod file as below:</p>
+<p>module github.com/&lt;&gt;your username&lt;&gt;/&lt;&gt;forked repo name&lt;&gt;</p>
+<h2 id="step-4-change-configyaml-file">Step 4: Change config.yaml file</h2>
+<p>Now, open the repository in an editor and change the following configurations in your config.yaml file located at the root of your repository.</p>
+<h3 id="change-the-baseurl">Change the baseURL</h3>
+<p>At first change the baseURL to your site URL. If you want to use Github Pages to host your site, then set it as below:</p>
+<p>baseURL: https://&lt;&gt;your username&lt;&gt;.github.io</p>
+<h3 id="change-the-gitrepo">Change the gitRepo</h3>
+<p>Now, change the gitRepo field under the params section to point to your forked repository. For example,</p>
+<p>gitRepo: <a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>&lt;&gt;your username&lt;&gt;/&lt;&gt;your forked repo name&lt;&gt;</p>
+<h2 id="step-5-run-the-site-locally">Step 5: Run the site locally</h2>
+<p>Now, run the following commands to run your site locally:</p>
+<h3 id="a-load-hugo-modules">a. Load Hugo modules</h3>
+<p>hugo mod tidy</p>
+<h3 id="b-install-node-modules">b. Install node modules</h3>
+<p>hugo mod npm pack</p>
+<p>npm install</p>
+<h3 id="c-run-the-site">c. Run the site</h3>
+<p>hugo server -w</p>
+<h2 id="step-6-push-the-changes-to-github">Step 6: Push the changes to Github</h2>
+<p>If you have come this far, it means your site is running locally without any issue. Let’s push these changes to Github.</p>
+<p><strong>stage all the changes</strong></p>
+<p>git add .</p>
+<p><strong>commit the changes</strong></p>
+<p>git commit -m &ldquo;Initial site setup&rdquo;</p>
+<p>git remote add origin <a href="https://github.com/Marcos14Almeida/mrcmarc.github.io.git" target="_blank" rel="noopener">https://github.com/Marcos14Almeida/mrcmarc.github.io.git</a></p>
+<p>git push -u origin main</p>
+<p><strong>Public folder</strong></p>
+<p>cd public</p>
+<p>git add .</p>
+<p>git commit -m &ldquo;Initial site setup&rdquo;</p>
+<p>git remote add origin <a href="https://github.com/Marcos14Almeida/mrcmarc.github.io.git" target="_blank" rel="noopener">https://github.com/Marcos14Almeida/mrcmarc.github.io.git</a></p>
+<p>git branch gh-pages</p>
+<p>git checkout gh-pages</p>
+<p>git push -u origin gh-pages</p>
+<hr>
 <h2 id="alert">Alert</h2>
 <p>The following alerts are available in this theme.</p>
 <div class="alert alert-success">
@@ -573,7 +620,7 @@ This is line two. It should have <code>4rem</code> vertical space with previous 
 
 
 
-<video class="video-player" id="video-48" playsinline controls>
+<video class="video-player" id="video-190" playsinline controls>
   <source src="/videos/sample.mp4" type="video/mp4" />
 </video>
 
@@ -787,7 +834,7 @@ erDiagram
           
           <div class="col-md-6 btn-improve-page">
              
-               <a href="https://github.com/hugo-toha/hugo-toha.github.io/edit/main/content/posts%5cshortcodes%5cindex.md" title="Improve this page" target="_blank" rel="noopener">
+               <a href="https://marcos14almeida.github.io/mrcmarc.github.io/edit/main/content/posts%5cshortcodes%5cindex.md" title="Improve this page" target="_blank" rel="noopener">
             
                 <i class="fas fa-code-branch"></i>
                 Improve this page
@@ -934,6 +981,23 @@ erDiagram
       <div class="toc">
         <nav id="TableOfContents">
   <ul>
+    <li><a href="#step-1-fork-the-example-repo-and-rename">Step 1: Fork the example repo and rename</a></li>
+    <li><a href="#step-2-clone-the-forked-repo-locally">Step 2: Clone the forked repo locally</a></li>
+    <li><a href="#step-3-update-the-module-file">Step 3: Update the module file</a></li>
+    <li><a href="#step-4-change-configyaml-file">Step 4: Change config.yaml file</a>
+      <ul>
+        <li><a href="#change-the-baseurl">Change the baseURL</a></li>
+        <li><a href="#change-the-gitrepo">Change the gitRepo</a></li>
+      </ul>
+    </li>
+    <li><a href="#step-5-run-the-site-locally">Step 5: Run the site locally</a>
+      <ul>
+        <li><a href="#a-load-hugo-modules">a. Load Hugo modules</a></li>
+        <li><a href="#b-install-node-modules">b. Install node modules</a></li>
+        <li><a href="#c-run-the-site">c. Run the site</a></li>
+      </ul>
+    </li>
+    <li><a href="#step-6-push-the-changes-to-github">Step 6: Push the changes to Github</a></li>
     <li><a href="#alert">Alert</a></li>
     <li><a href="#image">Image</a>
       <ul>
@@ -1052,6 +1116,15 @@ erDiagram
                   
                 
                 <li class="nav-item">
+                  <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#recent-posts">Recent Projects</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
                   <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#skills">Skills</a>
                 </li>
               
@@ -1062,15 +1135,6 @@ erDiagram
                 
                 <li class="nav-item">
                   <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#experiences">Experiences</a>
-                </li>
-              
-              
-                
-                
-                  
-                
-                <li class="nav-item">
-                  <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#projects">Projects</a>
                 </li>
               
               
@@ -1097,7 +1161,7 @@ erDiagram
                   
                 
                 <li class="nav-item">
-                  <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#recent-posts">Recent Posts</a>
+                  <a class="smooth-scroll" href="https://Marcos14Almeida/mrcmarc.github.io#projects">Projects</a>
                 </li>
               
               
@@ -1142,36 +1206,6 @@ erDiagram
         </div>
         
         
-        
-          
-          <div class="col-md-4 col-sm-12">
-            <p>Stay up to date with email notification</p>
-              
-              <form
-                action="https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;amp;id=094a24c76e"
-                method="post"
-                id="mc-embedded-subscribe-form"
-                name="mc-embedded-subscribe-form"
-                class="validate"
-                target="_blank"
-                novalidate >
-                <div class="form-group">
-                  <input
-                    type="email"
-                    class="form-control"
-                    id="mce-EMAIL"
-                    name="EMAIL"
-                    aria-describedby="emailHelp"
-                    placeholder="Enter email"
-                  />
-                  <small id="emailHelp" class="form-text text-muted"
-                    >By entering your email address, you agree to receive the newsletter of this website.</small
-                  >
-                </div>
-                <button type="submit" class="btn btn-info">Submit</button>
-              </form>
-            
-          </div>
         
       </div>
     </div>
