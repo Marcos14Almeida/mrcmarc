@@ -3,7 +3,7 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
@@ -11,54 +11,55 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Samsung Electronics
+    # url: "https://www.example.com"
+    location: Campinas, Brazil
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: AI research in the area of bayesian neural networks
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: AI Researcher
+    start: Jan 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+    end: Mar 2023
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
-
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Study the explainability of the existing models.
+    - Mitigate uncertainties and generate new insights for the project.
+    - Develop a Bayesian Neural Network applicable to any model using pytorch library.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Siemens
+    # url: "https://example.com"
+    location: Jundiaí, Brazil
+    overview: Internship to help and monitore the sales team to achieve their goals
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Sales Intern
+    start: Jan 2021
+    end: Dec 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Registration and monitoring of opportunities in Salesforce.
+    - Development of Power BI dashboards with our sales goals and KPIs.
+    - Search for new opportunities in the market.
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Equipe Phoenix de Robótica da Unicamp
+    # url: "https://example.com"
+    location: Campinas, Brazil
+    overview: Extracurricular robotics project for student competitions
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Marketing coordinator
+    start: Aug 2017
+    end: Jun 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Social Media Posts, creation of visual art for flyers.
+    - Creation of the website.
+    - Organization of the selection process.
+
+  - designation: Electric department member
+    start: Mar 2017
+    end: Jun 2019
+    responsibilities:
+    - Member of the Trekking project, autonomous robot, national category champion in 2017 at the Winter Challenge.
+    - Featherweight(30lb) category ramp combat robot project member.
+    - Projects with Altium to make circuit boards.
+    - Projects with Arduino to work with sensors.

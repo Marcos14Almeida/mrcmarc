@@ -1,16 +1,3 @@
-# some information about you
-name: "John Doe"
-nickname: "John"
-# greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
-# give your some contact information. they will be used in the footer
-contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
-
 # some summary about what you do
 summary:
   - I am a Developer
@@ -18,3 +5,22 @@ summary:
   - I love servers
   - I work on open-source projects
   - I love to work with some fun projects
+
+# some information about you
+name: "Marcos"
+nickname: "Marcos"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/marcos.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "marcos.10palmeida@gmail.com"
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I am an Electrical Engineer
+  - I am passionate about ideation and bringing them to life
+  - I love to innovate
+  - I am a Drummer

@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,39 +11,52 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Python
+  logo: "/images/sections/python.png"
+  summary: "Using it to develop and implement various applications and projects since 2015."
+  # url: "https://golang.org/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: R
+  logo: "/images/sections/r.png"
+  summary: "During my Business MBA at FGV all subjects were taught using the R programming language."
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Dart
+  logo: "/images/sections/flutter.png"
+  summary: "Developed many android apps using this beautiful programming language. Great for creating prototypes of ideas."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Git + Github
+  logo: "/images/sections/github.png"
+  summary: "I use git and github daily in my projects."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: SQL
+  logo: "/images/sections/sql.png"
+  summary: "Basic knowledge with the tool. Used in some apps and classes."
 
 - name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  logo: "/images/sections/linux.png"
+  summary: "I am used to work with Linux operating system and its command-line interface."
+  
+- name: Power BI
+  logo: "/images/sections/power bi.png"
+  summary: "Created dashboards for my sales team at Siemens for meetings and monitoring of metrics."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Firebase
+  logo: "/images/sections/firebase.png"
+  summary: "I created an app that used Firebase as database to store user infos."
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Arduino
+  logo: "/images/sections/arduino.png"
+  summary: "Doing arduino projects since 2012."
+
+- name: Altium
+  logo: "/images/sections/altium.png"
+  summary: "I did a lot of PCBs projects using Altium as development platform."
+  
+- name: Marketing
+  logo: "/images/sections/marketing.png"
+  summary: "I was the marketing coordinator at Equipe Phoenix de Robótica da Unicamp developing the website, flyers, social media posts, creating videos etc..."
+
+- name: Entrepreneurship
+  logo: "/images/sections/enterpreneurship.png"
+  summary: "I developed a music social network in 2020 called Davai available at Play Store."
+  url: "https://play.google.com/store/apps/details?id=com.davai.davai_app&pli=1"

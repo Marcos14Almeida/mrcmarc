@@ -1,9 +1,9 @@
 # section information
 section:
-  name: Accomplishments
+  name: Certificates
   id: accomplishments
   enable: true
-  weight: 8
+  weight: 6
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -11,36 +11,54 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Microsoft Power BI for Data Science, Version 2.0
+  timeline: "Apr 2021"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Data Science Academy
+    url: https://www.datascienceacademy.com.br/
+  courseOverview: Online course with a workload of 72 hours to develop dashboards with Power BI.
+  certificateURL: "https://drive.google.com/file/d/1hptqDtPil5f9kUp8e1Ux1jBL9rOw06qL/view?usp=share_link"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: DP-100 A-Z Machine Learning using Azure Machine Learning
+  timeline: "Mai 2022"
   organization:
     name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
- 
+    url: https://www.udemy.com/course/machine-learning-using-azureml/
+  courseOverview: "Online course with a workload of 26.5 hours."
+  certificateURL: "https://drive.google.com/file/d/1krbEhaTslDZ_Eo45sxHACYifCx0SLzg2/view?usp=sharing"
+
+- name: Machine Learning A-Z™ Hands-On Python & R in Data Science
+  timeline: "Apr 2021"
+  organization:
+    name: Udemy
+    url: https://www.udemy.org
+  courseOverview: "Online course with a workload of 44 hours."
+  
+  certificateURL: "https://drive.google.com/file/d/101JfNtP2Q7DQrlbm8cqhHFHuB7yxFIt5/view?usp=sharing"
+
+- name: Deep Learning A-Z™ Hands-On Artificial Neural Networks
+  timeline: "Sep 2020"
+  organization:
+    name: Udemy
+    url: https://www.udemy.org
+  courseOverview: "Online course with a workload of 22 hours."
+  certificateURL: "https://drive.google.com/file/d/1K4NZJerxAhkeWyJg1Ocq3J1DRLe7dyf3/view?usp=sharing"
+
+
+- name: Markov Matrices
+  timeline: "Apr 2020"
+  organization:
+    name: MOOC - Tecnico Lisboa
+    url: https://courses.mooc.tecnico.ulisboa.pt/
+  courseOverview: "Online course with a workload of 8 hours."
+  certificateURL: "https://drive.google.com/file/d/1JNp4qwl0zr08svGeCNHyA8VZUeTnnVQg/view?usp=sharing"
+
+
+- name: Drones Simulation and Control
+  timeline: "Apr 2020"
+  organization:
+    name: MOOC - Tecnico Lisboa
+    url: https://courses.mooc.tecnico.ulisboa.pt/
+  courseOverview: "Online course with a workload of 8 hours."
+  certificateURL: "https://drive.google.com/file/d/1cBM_CfBFc-UPA97vATPN_K79RvYgaV-e/view?usp=sharing"
 
