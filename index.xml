@@ -167,24 +167,24 @@ During the pandemics, I bought a guitar and saw that guitar pedals were extremel
     </item>
     
     <item>
-      <title>Markdown Samples</title>
-      <link>https://marcos14almeida.github.io/mrcmarc/posts/markdown-sample/</link>
+      <title>Hugo Tutorial</title>
+      <link>https://marcos14almeida.github.io/mrcmarc/posts/tutorials/hugo-tutorial/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://marcos14almeida.github.io/mrcmarc/posts/markdown-sample/</guid>
+      <guid>https://marcos14almeida.github.io/mrcmarc/posts/tutorials/hugo-tutorial/</guid>
       <description>This is a sample post intended to test the followings:
-A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
-H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
+Create a Hugo Project Default hero image. Different shortcodes. Build a Hugo Toha project https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality Step 1: Fork the example repo and rename At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to .github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.</description>
     </item>
     
     <item>
-      <title>Shortcodes Samples</title>
-      <link>https://marcos14almeida.github.io/mrcmarc/posts/shortcodes/</link>
+      <title>Markdown Samples</title>
+      <link>https://marcos14almeida.github.io/mrcmarc/posts/tutorials/markdown-sample/</link>
       <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
       
-      <guid>https://marcos14almeida.github.io/mrcmarc/posts/shortcodes/</guid>
+      <guid>https://marcos14almeida.github.io/mrcmarc/posts/tutorials/markdown-sample/</guid>
       <description>This is a sample post intended to test the followings:
-Create a Hugo Project Default hero image. Different shortcodes. Build a Hugo Toha project https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality Step 1: Fork the example repo and rename At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to .github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.</description>
+A different post author. Table of contents. Markdown content rendering. Math rendering. Emoji rendering. Markdown Syntax Rendering Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur?</description>
     </item>
     
     <item>
