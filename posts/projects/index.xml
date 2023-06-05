@@ -230,15 +230,11 @@ The objective of the competition is to train people interested in entrepreneursh
       <pubDate>Thu, 10 Dec 2015 20:08:28 -0300</pubDate>
       
       <guid>https://marcos14almeida.github.io/mrcmarc/posts/projects/python-projects/</guid>
-      <description>Predictions for Bets Project description
-Football Web Scrapper Project description
+      <description>Football Web Scrapper Project description
 Football Champions Web Scrapper Project description
 All Football Players in History Stats Web Scrapper Project description
-IBGE corretores Streamlit Python website SQL project Cloud project New Dashboard project Time Series project Recommendation project Reinforcement Learning with Q-Learning project Variational Auto Encoders/ Bayesian NN Site em R markdown Development
-Start: 07/2022.
-End: 07/2022.
-Project Description(Website)
-Test development of a R script in R markdown.</description>
+Predictions for Bets Project description
+I collected data from the top 5 leagues in Europe and made a betting algorithm based on the recent results of each club. However, the correlation of the variables was not very good. With that I had a performance similar to that of a human betting.</description>
     </item>
     
     <item>
