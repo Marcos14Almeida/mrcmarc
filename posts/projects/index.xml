@@ -230,11 +230,10 @@ The objective of the competition is to train people interested in entrepreneursh
       <pubDate>Thu, 10 Dec 2015 20:08:28 -0300</pubDate>
       
       <guid>https://marcos14almeida.github.io/mrcmarc/posts/projects/python-projects/</guid>
-      <description>Football Web Scrapper Project description
-Football Champions Web Scrapper Project description
-All Football Players in History Stats Web Scrapper Project description
-Predictions for Bets Project description
-I collected data from the top 5 leagues in Europe and made a betting algorithm based on the recent results of each club. However, the correlation of the variables was not very good. With that I had a performance similar to that of a human betting.</description>
+      <description>Football Web Scrapper (Github)
+Project description
+Python files to extract online player data from the database of &amp;ldquo;SoFifa&amp;rdquo; and &amp;ldquo;SoccerWiki&amp;rdquo; sites into .csv files, to be used in my Football Manager game.
+The file takes data from the sites &amp;ldquo;SoFifa&amp;rdquo; and &amp;ldquo;SoccerWiki&amp;rdquo; and using Python&amp;rsquo;s BeautifulSoup looks for Html tags with the necessary information of each player such as name, age, position and potential to save in a &amp;ldquo;.csv&amp;rdquo; file.</description>
     </item>
     
     <item>
