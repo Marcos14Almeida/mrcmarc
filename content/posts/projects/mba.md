@@ -124,6 +124,13 @@ During the course we learned about:
   </div>
   <br>
 
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="/mrcmarc/posts/projects/images/mba/18_wordcloud.jpg"  style="width: 40%; margin: 10px;">
+  <img src="/mrcmarc/posts/projects/images/mba/18_midias_sociais.jpg"  style="width: 40%; margin: 10px;">
+      <figcaption>Wordcloud and graph from Media Analysis collecting BNDES news from G1 website. </figcaption>
+  </div>
+  <br>
+
 </div>
 
 **Tools**
@@ -131,6 +138,7 @@ During the course we learned about:
 - Python
 - R
 - Tableau
+- Gephi
 - SQL
 - Machine Learning
 - Time-Series

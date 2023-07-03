@@ -12,8 +12,6 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
 - name: Academic
   filter: "academic"
 - name: Hobby
@@ -55,3 +53,10 @@ projects:
   timeline: "Jun 2020 - Dec 2020"
   summary: Image detection with YOLO framework.
   tags: ["academic", "machine-learning", "flutter"]
+
+- name: Site com R Markdown
+  role: Author
+  timeline: "2022"
+  summary: Exemplo de website feito com códigos de R e linguagem Markdown
+  url: https://marcos14almeida.github.io/Demo/
+  tags: ["data analysis", "R"]

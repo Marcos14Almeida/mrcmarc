@@ -1,12 +1,12 @@
 ---
-title: "SGD in fiber optical networks paper"
+title: "ML in optical networks"
 date: 2023-05-17T20:08:28-03:00
 hero: /images/projects/sgd.jpeg
 description: An implementation of stochastic gradient descent algorithm to create a digital twin of a fiber optical network.
 theme: Toha
 menu:
   sidebar:
-    name: 23-SGD in fiber optical networks paper
+    name: 23-ML in optical networks
     identifier: sgd
     parent: projects
     weight: 500
@@ -18,7 +18,7 @@ menu:
 
 Start: 08/2022.
 
-End: Work In Progress...
+End: In Progress...
 
 
 **Project description**

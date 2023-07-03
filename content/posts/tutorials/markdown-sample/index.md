@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Markdown Sample
     identifier: markdown
+    parent: tutorials
     weight: 30
 math: true
 ---

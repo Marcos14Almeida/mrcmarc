@@ -11,6 +11,15 @@ section:
 
 # Your accomplishments
 accomplishments:
+
+- name: Google Cloud Courses Badges
+  organization:
+    name: Google
+    url: https://www.cloudskillsboost.google/journeys
+  courseOverview: Google Cloud courses completed by me.
+  certificateURL: "https://www.cloudskillsboost.google/public_profiles/927a0fc2-721a-4ca6-a937-45540f18607b"
+
+
 - name: Microsoft Power BI for Data Science, Version 2.0
   timeline: "Apr 2021"
   organization:

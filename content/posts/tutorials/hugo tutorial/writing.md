@@ -1,11 +1,12 @@
 ---
-title: "Shortcodes Samples"
+title: "Hugo Style Tutorial"
 date: 2020-06-08T08:06:25+06:00
-description: Shortcodes sample
+description: Hugo Style Tutorial
 menu:
   sidebar:
-    name: Shortcodes Sample
-    identifier: shortcodes
+    name: Hugo Style Tutorial
+    identifier: hugo style tutorial
+    parent: hugo
     weight: 40
 hero: boat.jpg
 mermaid: true
@@ -13,94 +14,9 @@ mermaid: true
 
 This is a sample post intended to test the followings:
 
-- Create a Hugo Project
 - Default hero image.
 - Different shortcodes.
 
-# Build a Hugo Toha project
-
-* https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality
-
-## Step 1: Fork the example repo and rename
-At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to <your username>.github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.
-
-## Step 2: Clone the forked repo locally
-Once you have forked and renamed the repository, you can now clone the forked repository in your local machine for further changes.
-
-git clone https://github.com/<>your username<>/<>forked repo name<>
-
-## Step 3: Update the module file
-You should see go.mod files in the root of the repository. Update the first line of the go.mod file as below:
-
-module github.com/<>your username<>/<>forked repo name<>
-
-## Step 4: Change config.yaml file
-Now, open the repository in an editor and change the following configurations in your config.yaml file located at the root of your repository.
-
-### Change the baseURL
-At first change the baseURL to your site URL. If you want to use Github Pages to host your site, then set it as below:
-
-baseURL: https://<>your username<>.github.io
-
-### Change the gitRepo
-
-Now, change the gitRepo field under the params section to point to your forked repository. For example,
-
-gitRepo: https://github.com/<>your username<>/<>your forked repo name<>
-
-## Step 5: Run the site locally
-
-Now, run the following commands to run your site locally:
-
-### a. Load Hugo modules
-
-hugo mod tidy
-
-### b. Install node modules
-
-hugo mod npm pack
-
-npm install
-
-### c. Run the site
-
-hugo server -w
-
-## Step 6: Push the changes to Github
-
-If you have come this far, it means your site is running locally without any issue. Let’s push these changes to Github.
-
-**stage all the changes**
-
-git add .
-
-**commit the changes**
-
-git commit -m "Initial site setup"
-
-git remote add origin https://github.com/Marcos14Almeida/mrcmarc.github.io.git
-
-git push -u origin main
-
-**Public folder**
-
-cd public
-
-git add .
-
-git commit -m "Initial site setup"
-
-git remote add origin https://github.com/Marcos14Almeida/mrcmarc.github.io.git
-
-git branch gh-pages
-
-git checkout gh-pages
-
-git push -u origin gh-pages
-
-
-
---------------------------------------------------------------
 
 ## Alert
 

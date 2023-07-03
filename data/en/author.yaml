@@ -1,10 +1,10 @@
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a Data Scientist
+  - I am an Electrical Engineer
+  - I am passionate about ideation and bringing them to life
+  - I love to innovate
+  - I am a Drummer
 
 # some information about you
 name: "Marcos"
@@ -16,11 +16,3 @@ image: "images/author/marcos.png"
 contactInfo:
   email: "marcos.10palmeida@gmail.com"
   # phone: "+0123456789"
-
-# some summary about what you do
-summary:
-  - I am a Data Scientist
-  - I am an Electrical Engineer
-  - I am passionate about ideation and bringing them to life
-  - I love to innovate
-  - I am a Drummer

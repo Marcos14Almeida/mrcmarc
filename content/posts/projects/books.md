@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: Books
     identifier: books
-    weight: 500
+    weight: 30
 ---
 
 ## Books I have read
