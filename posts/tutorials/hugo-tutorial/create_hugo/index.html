@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Create Hugo Toha Project</title>
+    <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+<link rel="stylesheet" href="/mrcmarc/application.a774edfc8322e105ebd5f43fab5b47bebc6b7621f6a7e3e35009dd2070d03d7e.css" integrity="sha256-p3Tt/IMi4QXr1fQ/q1tHvrxrdiH2p&#43;PjUAndIHDQPX4=" />
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+  
+
+  <link rel="icon" type="image/png" href="/mrcmarc/images/site/favicon_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" />
+
+<meta property="og:title" content="Create Hugo Toha Project" />
+<meta property="og:description" content="Create Hugo Project" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://marcos14almeida.github.io/mrcmarc/posts/tutorials/hugo-tutorial/create_hugo/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-06-08T08:06:25+06:00" />
+<meta property="article:modified_time" content="2020-06-08T08:06:25+06:00" />
+
+
+    
+    
+<meta name="description" content="Create Hugo Project" />
+
+
+    
+
+    
+        
+        
+        
+            
+            
+            
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H4LBG7NDFZ"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-H4LBG7NDFZ', { 'anonymize_ip': false });
+}
+</script>
+
+        
+
+        
+        
+
+        
+        
+
+        
+        
+        
+    
+
+
+
+
+</head>
+
+  <body class="type-posts kind-page" data-spy="scroll" data-target="#TableOfContents" data-offset="80">
+    <div class="container-fluid bg-dimmed wrapper">
+      
+      
+    
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+  
+  
+    
+  
+  
+
+
+<nav class="navbar navbar-expand-xl top-navbar final-navbar shadow">
+  <div class="container">
+      <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="/mrcmarc">
+      
+        <img src="/mrcmarc/images/site/main-logo_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" alt="Logo">
+      Marcos Maso Blog</a>
+    <button class="navbar-toggler navbar-light" id="toc-toggler" type="button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
+      <ul class="navbar-nav ml-auto">
+      
+      
+        <li class="nav-item dropdown">
+<a class="nav-link dropdown-toggle"  href="#" id="themeSelector" role="button"
+  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <img id="navbar-theme-icon-svg" src="/icons/moon-svgrepo-com.svg" width=20 alt="Dark Theme">
+</a>
+<div id="themeMenu" class="dropdown-menu dropdown-menu-icons-only" aria-labelledby="themeSelector">
+  <a class="dropdown-item nav-link" href="#" data-scheme="light">
+    <img class="menu-icon-center" src="/icons/sun-svgrepo-com.svg" width=20 alt="Light Theme">
+  </a>
+  <a class="dropdown-item nav-link" href="#" data-scheme="dark">
+    <img class="menu-icon-center" src="/icons/moon-svgrepo-com.svg" width=20 alt="Dark Theme">
+  </a>
+  <a class="dropdown-item nav-link" href="#" data-scheme="system">
+    <img class="menu-icon-center" src="/icons/computer-svgrepo-com.svg" width=20 alt="System Theme">
+  </a>
+</div>
+</li>
+
+      
+      </ul>
+    </div>
+  </div>
+  
+  
+    <img src="/mrcmarc/images/site/main-logo_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" class="d-none" id="main-logo" alt="Logo">
+  
+  
+    <img src="/mrcmarc/images/site/inverted-logo_hued548e9aa1b39b95f694cae38feb8f1b_54559_42x0_resize_box_3.png" class="d-none" id="inverted-logo" alt="Inverted Logo">
+  
+</nav>
+
+
+
+      
+      
+  <section class="sidebar-section" id="sidebar-section">
+    <div class="sidebar-holder">
+      <div class="sidebar" id="sidebar">
+        <form class="mx-auto" method="get" action="/mrcmarc/search">
+          <input type="text" name="keyword" value="" placeholder="Search" data-search="" id="search-box" />
+        </form>
+        <div class="sidebar-tree">
+          <ul class="tree" id="tree">
+            <li id="list-heading"><a href="/posts/" data-filter="all">Posts</a></li>
+            <div class="subtree">
+                
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/introduction/" title="Introduction">Introduction</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li>
+      <i class="fas fa-plus-circle"></i><a class="" href="/mrcmarc/posts/projects/">Projects</a>
+      
+      <ul class="">
+        
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/gps-plot/" title="16-E-Racing GPS Telemetry">16-E-Racing GPS Telemetry</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/phoenix/" title="18-Phoenix Robotics Team Projects">18-Phoenix Robotics Team Projects</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/ist/" title="19-IST">19-IST</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/ey-solidario/" title="20-Community Supportive App">20-Community Supportive App</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/drum-led/" title="20-Drum LED project">20-Drum LED project</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/guitar-pedal/" title="20-Homemade Guitar Pedal">20-Homemade Guitar Pedal</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/yolo/" title="20-Undergraduate thesis - YOLO">20-Undergraduate thesis - YOLO</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/davai/" title="21-Davai Music Social Network">21-Davai Music Social Network</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/inova-unicamp/" title="21-Entrepreneurship Challenge">21-Entrepreneurship Challenge</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/iot/" title="22-IoT - Weather Station">22-IoT - Weather Station</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/stadium-guesser/" title="22-Stadium Guesser App">22-Stadium Guesser App</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/fifa/" title="23-Football Simulator App">23-Football Simulator App</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/ml-guide/" title="23-Machine Learning Guide">23-Machine Learning Guide</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/mba/" title="23-MBA projects">23-MBA projects</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/sgd/" title="23-ML in optical networks">23-ML in optical networks</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/electronics/" title="Electronics Projects">Electronics Projects</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/apps/" title="Flutter Apps">Flutter Apps</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/ml/" title="ML Projects">ML Projects</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/other-projects/" title="Other Projects">Other Projects</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/projects/books/" title="Books">Books</a></li>
+  
+
+  
+  
+  
+  
+    
+    
+  
+  
+    
+    <li>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/mrcmarc/posts/tutorials/">Tutorials</a>
+      
+      <ul class="active">
+        
+  
+  
+  
+  
+    
+    
+  
+  
+    
+    <li>
+      <i class="fas fa-minus-circle"></i><a class="active" href="/mrcmarc/posts/tutorials/hugo-tutorial/">Hugo</a>
+      
+      <ul class="active">
+        
+  
+  
+  
+  
+    
+    
+  
+  
+    
+    <li><a class="active" href="/mrcmarc/posts/tutorials/hugo-tutorial/create_hugo/" title="Create Hugo Project">Create Hugo Project</a></li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/tutorials/hugo-tutorial/writing/" title="Hugo Style Tutorial">Hugo Style Tutorial</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+  
+  
+  
+  
+  
+    
+    <li><a class="" href="/mrcmarc/posts/tutorials/markdown-sample/" title="Markdown Sample">Markdown Sample</a></li>
+  
+
+
+      </ul>
+    </li>
+  
+
+
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+      
+      
+<section class="content-section" id="content-section">
+  <div class="content">
+    <div class="container p-0 read-area">
+      
+      <div class="hero-area col-sm-12" id="hero-area" style='background-image: url(/mrcmarc/images/default-hero.jpg);'>
+      </div>
+
+      
+      <div class="page-content">
+        <div class="author-profile ml-auto align-self-lg-center">
+          <img class="rounded-circle" src='/mrcmarc/images/author/marcos_hua592720d171041f4f3752f710f8218bc_67134_120x120_fit_box_3.png' alt="Author Image">
+          <h5 class="author-name">Marcos</h5>
+          <p>Monday, June 8, 2020</p>
+        </div>
+
+        <div class="title">
+          <h1>Create Hugo Toha Project</h1>
+        </div>
+        
+        <div class="taxonomy-terms">
+          <ul style="padding-left: 0;">
+            
+          </ul>
+        </div>
+        
+        <div class="post-content" id="post-content">
+          <h1 id="build-a-hugo-toha-project">Build a Hugo Toha project</h1>
+<ul>
+<li><a href="https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality" target="_blank" rel="noopener">https://toha-guides.netlify.app/posts/quickstart/#disable-news-letter-functionality</a></li>
+</ul>
+<h2 id="step-1-fork-the-example-repo-and-rename">Step 1: Fork the example repo and rename</h2>
+<p>At first, fork this sample repo to your account. Then, rename the repo to whatever you want. If you want to use Github Pages to deploy your site, then rename it to <your username>.github.io. The sample repo comes with pre-configured Github Actions to publish the site in Github Pages and Netlify.</p>
+<h2 id="step-2-clone-the-forked-repo-locally">Step 2: Clone the forked repo locally</h2>
+<p>Once you have forked and renamed the repository, you can now clone the forked repository in your local machine for further changes.</p>
+<p>git clone <a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>&lt;&gt;your username&lt;&gt;/&lt;&gt;forked repo name&lt;&gt;</p>
+<h2 id="step-3-update-the-module-file">Step 3: Update the module file</h2>
+<p>You should see <code>go.mod</code> files in the root of the repository. Update the first line of the go.mod file as below:</p>
+<p>module github.com/&lt;&gt;your username&lt;&gt;/&lt;&gt;forked repo name&lt;&gt;</p>
+<h2 id="step-4-change-configyaml-file">Step 4: Change config.yaml file</h2>
+<p>Now, open the repository in an editor and change the following configurations in your <code>config.yaml</code> file located at the root of your repository.</p>
+<h3 id="change-the-baseurl">Change the baseURL</h3>
+<p>At first change the baseURL to your site URL. If you want to use Github Pages to host your site, then set it as below:</p>
+<p>baseURL: https://&lt;&gt;your username&lt;&gt;.github.io</p>
+<h3 id="change-the-gitrepo">Change the gitRepo</h3>
+<p>Now, change the gitRepo field under the params section to point to your forked repository. For example,</p>
+<p>gitRepo: <a href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>&lt;&gt;your username&lt;&gt;/&lt;&gt;your forked repo name&lt;&gt;</p>
+<h2 id="step-5-run-the-site-locally">Step 5: Run the site locally</h2>
+<p>Now, run the following commands to run your site locally:</p>
+<h3 id="a-load-hugo-modules">a. Load Hugo modules</h3>
+<p>hugo mod tidy</p>
+<h3 id="b-install-node-modules">b. Install node modules</h3>
+<p>hugo mod npm pack</p>
+<p>npm install</p>
+<h3 id="c-run-the-site">c. Run the site</h3>
+<p>hugo server -w</p>
+<h2 id="step-6-push-the-changes-to-github">Step 6: Push the changes to Github</h2>
+<p>If you have come this far, it means your site is running locally without any issue. Let’s push these changes to Github.</p>
+<p><strong>stage all the changes</strong></p>
+<p>git add .</p>
+<p><strong>commit the changes</strong></p>
+<p>git commit -m &ldquo;Initial site setup&rdquo;</p>
+<p>git remote add origin <a href="https://github.com/Marcos14Almeida/mrcmarc.github.io.git" target="_blank" rel="noopener">https://github.com/Marcos14Almeida/mrcmarc.github.io.git</a></p>
+<p>git push -u origin main</p>
+<p><strong>Public folder</strong></p>
+<p>In order to see the page, create a <code>gh-pages</code> branch on github and upload just the <code>public</code> folder to it. In order to do it create a git inside this folder. On the <code>main</code> branch you can save the project as a whole. In order to save it correctly, alway run the commands:</p>
+<p>hugo</p>
+<p>hugo server</p>
+<p>The command hugo you redo the folder public. If the pages are correctly displayed with hugo server then upload the changes to github <code>gh-pages</code> branch with the commands (considering you are in the terminal in the project root):</p>
+<p>cd public</p>
+<p>git add .</p>
+<p>git commit -m &ldquo;Initial site setup&rdquo;</p>
+<p>git remote add origin <a href="https://github.com/Marcos14Almeida/mrcmarc.github.io.git" target="_blank" rel="noopener">https://github.com/Marcos14Almeida/mrcmarc.github.io.git</a></p>
+<p>git branch gh-pages # Just if you don&rsquo;t have the branch yet</p>
+<p>git checkout gh-pages # Just if you don&rsquo;t have the branch yet</p>
+<p>git push -u origin gh-pages</p>
+<h3 id="images">Images</h3>
+<p>The images should be placed in a folder inside the <code>content</code> then you call it using html for example:</p>
+<p>img src=&quot;/mrcmarc/posts/projects/images/chat.png&quot; alt=&ldquo;chat&rdquo; style=&ldquo;width: 30%; margin: 10px;&rdquo;</p>
+<p>In this case the blog is Marcos.github.io/mrcmarc. But the source is always .github.io. Because of that the images should be referenced starting from this point. Then the image is located inside /contents/posts&hellip;, so you just need to connect the 2 parts. If your site is just <code>name.github.io</code> you would reference it as /posts/project_folder/image_folder/image_name.jpg.</p>
+<p>If the image doesn&rsquo;t appear check the baseURL or the gitRepo of the <code>config.yaml</code>. Probabaly one of those two references are wrong.</p>
+<hr>
+
+        </div>
+
+        
+        <div class="row pl-3 pr-3">
+        
+        <div class="col-md-6 share-buttons">
+        
+            <strong>Share on:</strong>
+            
+            <a class="btn btn-sm facebook-btn" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmarcos14almeida.github.io%2fmrcmarc%2fposts%2ftutorials%2fhugo-tutorial%2fcreate_hugo%2f" target="_blank">
+              <i class="fab fa-facebook"></i>
+            </a>
+            
+            
+                <a class="btn btn-sm twitter-btn" href="https://twitter.com/share?url=https%3a%2f%2fmarcos14almeida.github.io%2fmrcmarc%2fposts%2ftutorials%2fhugo-tutorial%2fcreate_hugo%2f&text=Create%20Hugo%20Toha%20Project&via=Marcos%20Maso%20Blog" target="_blank">
+                  <i class="fab fa-twitter"></i>
+                </a>
+            
+            
+            
+            
+            
+                <a class="btn btn-sm linkedin-btn" href="https://www.linkedin.com/shareArticle?url=https%3a%2f%2fmarcos14almeida.github.io%2fmrcmarc%2fposts%2ftutorials%2fhugo-tutorial%2fcreate_hugo%2f&title=Create%20Hugo%20Toha%20Project" target="_blank">
+                  <i class="fab fa-linkedin"></i>
+                </a>
+            
+            
+             
+            
+            
+                <a class="btn btn-sm email-btn" href="mailto:?subject=Create%20Hugo%20Toha%20Project&body=https%3a%2f%2fmarcos14almeida.github.io%2fmrcmarc%2fposts%2ftutorials%2fhugo-tutorial%2fcreate_hugo%2f" target="_blank">
+                  <i class="fas fa-envelope-open-text"></i>
+                </a>
+            
+          
+          </div>
+
+        
+        
+          
+            
+          
+          <div class="col-md-6 btn-improve-page">
+             
+               <a href="https://github.com/Marcos14Almeida/mrcmarc//edit/main/content/posts%5ctutorials%5chugo%20tutorial%5ccreate_hugo.md" title="Improve this page" target="_blank" rel="noopener">
+            
+                <i class="fas fa-code-branch"></i>
+                Improve this page
+              </a>
+          </div>
+        
+        </div>
+
+
+
+      
+      <hr />
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+    
+    
+  
+  
+
+  
+  
+
+  
+  
+
+
+<div class="row next-prev-navigator">
+  
+    <div class="col-md-6 previous-article">
+      <a href="/mrcmarc/posts/projects/books/" title="Books" class="btn btn-outline-info">
+        <div><i class="fas fa-chevron-circle-left"></i> Prev</div>
+        <div class="next-prev-text">Books</div>
+      </a>
+    </div>
+  
+  
+      
+      
+        
+      
+      <div class="col-md-6 next-article">
+        <a href="/mrcmarc/posts/tutorials/hugo-tutorial/writing/" title="Hugo Style Tutorial" class="btn btn-outline-info">
+          <div>Next <i class="fas fa-chevron-circle-right"></i></div>
+          <div class="next-prev-text">Hugo Style Tutorial</div>
+        </a>
+      </div>
+    
+</div>
+
+      <hr />
+
+      
+      
+
+      
+      
+
+      </div>
+    </div>
+  </div>
+  
+  <a id="scroll-to-top" class="btn"><i class="fas fa-chevron-circle-up"></i></a>
+  
+</section>
+
+
+      
+      
+  <section class="toc-section" id="toc-section">
+    
+    <div class="toc-holder">
+      <h5 class="text-center pl-3">Table of Contents</h5>
+      <hr>
+      <div class="toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#step-1-fork-the-example-repo-and-rename">Step 1: Fork the example repo and rename</a></li>
+    <li><a href="#step-2-clone-the-forked-repo-locally">Step 2: Clone the forked repo locally</a></li>
+    <li><a href="#step-3-update-the-module-file">Step 3: Update the module file</a></li>
+    <li><a href="#step-4-change-configyaml-file">Step 4: Change config.yaml file</a>
+      <ul>
+        <li><a href="#change-the-baseurl">Change the baseURL</a></li>
+        <li><a href="#change-the-gitrepo">Change the gitRepo</a></li>
+      </ul>
+    </li>
+    <li><a href="#step-5-run-the-site-locally">Step 5: Run the site locally</a>
+      <ul>
+        <li><a href="#a-load-hugo-modules">a. Load Hugo modules</a></li>
+        <li><a href="#b-install-node-modules">b. Install node modules</a></li>
+        <li><a href="#c-run-the-site">c. Run the site</a></li>
+      </ul>
+    </li>
+    <li><a href="#step-6-push-the-changes-to-github">Step 6: Push the changes to Github</a>
+      <ul>
+        <li><a href="#images">Images</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </div>
+    </div>
+    
+  </section>
+
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+  
+
+  
+  
+    
+    
+      
+    
+  
+
+
+  
+  
+  
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+    
+  
+  
+
+  
+  
+  
+
+  <footer id="footer" class="container-fluid text-center align-content-center footer pb-2">
+    <div class="container pt-5">
+      <div class="row text-left">
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Navigation</h5>
+          
+          <ul>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#recent-posts">Recent Projects</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#skills">Skills</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#experiences">Experiences</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#education">Education</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#achievements">Achievements</a>
+                </li>
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#accomplishments">Certificates</a>
+                </li>
+              
+              
+              
+                
+                
+                  
+                
+                <li class="nav-item">
+                  <a class="smooth-scroll" href="https://marcos14almeida.github.io/mrcmarc/#publications">Publications</a>
+                </li>
+              
+            
+              
+                
+              
+            
+          </ul>
+          
+        </div>
+        
+        
+        <div class="col-md-4 col-sm-12">
+          <h5>Contact me:</h5>
+          <ul>
+            
+              
+                <li><a href=mailto:marcos.10palmeida@gmail.com target="_blank" rel="noopener">
+                  <span><i class="fas fa-envelope"></i></span> <span>marcos.10palmeida@gmail.com</span>
+                </a></li>
+              
+            
+          </ul>
+        </div>
+        
+        
+        
+      </div>
+    </div>
+    
+    
+    <hr />
+    <div class="container">
+      <div class="row text-left">
+        <div class="col-md-4">
+          <a id="theme" href="https://github.com/hugo-toha/toha" target="_blank" rel="noopener">
+            <img src="/mrcmarc/images/theme-logo_hu8376fd15465fef26ffe66b6bcf0ca686_13669_32x0_resize_box_3.png" alt="Toha Theme Logo">
+            Toha
+          </a>
+        </div>
+        <div class="col-md-4 text-center">© 2023 Copyright.</div>
+        <div class="col-md-4 text-right">
+          <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Powered by
+          <img
+            src="/mrcmarc/images/hugo-logo.svg"
+            alt="Hugo Logo"
+            height="18"
+          />
+          </a>
+        </div>
+      </div>
+    </div>
+    
+  </footer>
+
+
+    <script src="/mrcmarc/application.9298f7718d7523ceb05679c9af580b71b9f57244672370c62ad7e0d64e35f3f4.js" integrity="sha256-kpj3cY11I86wVnnJr1gLcbn1ckRnI3DGKtfg1k418/Q=" defer></script>
+
+
+
+    
+     
+
+    
+    
+
+</body>
+</html>
