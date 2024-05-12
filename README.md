@@ -5,3 +5,19 @@
 An example hugo static site with Toha theme. [References](https://toha-guides.netlify.app/posts/)
 
 This is my personal website. Enjoy! :)
+
+# How to run
+
+Go to the project folder in the terminal
+
+Ex: cd Hugo/mrcmarc.project
+
+Open the website by typing in the terminal
+
+hugo server -D
+
+Construct the files in the public folder by typing in the terminal
+
+hugo
+
+Then commit the changes and wait 10min for website in Github to update

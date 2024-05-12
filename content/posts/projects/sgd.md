@@ -1,12 +1,12 @@
 ---
-title: "ML in optical networks"
+title: "ML anomaly detection in time-series"
 date: 2023-05-17T20:08:28-03:00
 hero: /images/projects/sgd.jpeg
-description: An implementation of stochastic gradient descent algorithm to create a digital twin of a fiber optical network.
+description: An unsupervised ML approach to localize optical amplifier anomalies using input-output power time series.
 theme: Toha
 menu:
   sidebar:
-    name: 23-ML in optical networks
+    name: 23-ML anomaly detection in time-series
     identifier: sgd
     parent: projects
     weight: 500
