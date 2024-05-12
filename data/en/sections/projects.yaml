@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Professional
+  filter: "professional"
 - name: Academic
   filter: "academic"
 - name: Hobby
@@ -27,24 +29,34 @@ projects:
   # logo: /images/projects/davai.png
   role: Founder and Developer
   timeline: "Jan 2021 - Mar 2022"
-  url: https://play.google.com/store/apps/details?id=com.davai.davai_app&pli=1
-  #repo:
+  url: https://www.instagram.com/davai_app/
+  # repo: https://github.com/hossainemruz/toha
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. 
   # don't provide "repo" and "url" simultaneously.
   summary: Music social network.
   tags: ["professional", "app", "flutter"]
 
-- name: FIFA 23
+- name: Football Simulator
   role: Owner
   timeline: "Jun 2020 - Present"
-  # repo: https://github.com/tensorflow/tensorflow
-  summary: A Football Simulation App.
+  summary: A Football Simulator App developed with Flutter.
   tags: ["hobby", "app","football"]
+
+- name: Community Supportive App
+  role: Owner
+  timeline: "Dez 2020 - Dez 2020"
+  summary: “Solidário” app a cashback system to help the community with donnations.
+  tags: ["academic", "app"]
+
+- name: Football standings prediction using time-series 
+  role: Owner
+  timeline: "May 2024"
+  summary: Prediction of a football league final season classification based on previous performances.
+  tags: ["hobby", "machine-learning", "football"]
 
 - name: ML Guide
   role: Owner
   timeline: "Dec 2022 - Present"
-  # repo: https://github.com/hossainemruz/toha
   summary: A Machine Learning containing a resume of all the most used techniques in the field.
   tags: ["hobby", "machine-learning", "neural-networks"]
 
@@ -52,11 +64,5 @@ projects:
   role: Author
   timeline: "Jun 2020 - Dec 2020"
   summary: Image detection with YOLO framework.
+  url: https://marcos14almeida.github.io/mrcmarc/posts/projects/yolo/
   tags: ["academic", "machine-learning", "flutter"]
-
-- name: Site com R Markdown
-  role: Author
-  timeline: "2022"
-  summary: Exemplo de website feito com códigos de R e linguagem Markdown
-  url: https://marcos14almeida.github.io/Demo/
-  tags: ["data analysis", "R"]

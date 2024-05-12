@@ -89,6 +89,27 @@ Project for viewing player data with python, through an interactive and online w
 <!-- ########################################################################################################### -->
 <hr> <!-- Divider line -->
 
+Football Match prediction
+-------------------------
+([Website](https://github.com/Marcos14Almeida/prev_futebol))
+
+**Development**
+
+Start: 10/2022.
+
+End: 10/2022.
+
+**Project description**
+
+Using Python, I use a dataset with information about the teams, home club and retrospective of the last 5 matches. From there, I filter the dataset in train_set and test_set and apply feature scaling and the random forest method in sklearn's train_set to obtain a prediction of the results. By modifying the hyperparameters and observing the Confusion Matrix, Recall, Accuracy and F1-Score metrics, the algorithm was improved for better results.
+
+At the end, a 3D graph is generated comparing the real result with the expected, and with another test dataset from a new round of the Brasileirão, predictions are generated.
+
+The algorithm is still imprecise, both due to the unpredictability of the results and the small dataset with little information.
+
+<!-- ########################################################################################################### -->
+<hr> <!-- Divider line -->
+
 My Music Preferences Analysis - Dashboard
 -----------------------------------------
 
@@ -118,23 +139,6 @@ End: 06/2023.
 Analysis of my songs filtering the data using Python. Obtaining genres from the Last.fm API and visualization of the results using Gephi, Tableau.
 
 </div>
-
-<!-- ########################################################################################################### -->
-<hr> <!-- Divider line -->
-
-Predict Football Classification - Multivariate Time Series
-----------------------------------------------------------
-([Github](https://github.com/Marcos14Almeida/general_ml_python/tree/main/time-series))
-
-**Development**
-
-Start: 05/2023.
-
-End: 05/2023.
-
-**Project description**
-
-Use of multivariate time series to predict the ranking of a football team in the following season, taking into account all the last placements of it and all other teams in that championship.
 
 
 <!-- ########################################################################################################### -->

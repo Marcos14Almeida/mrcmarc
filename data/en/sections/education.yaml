@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 5
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -21,8 +21,10 @@ degrees:
     achieved: 4
     outOf: 4
   publications: #(optional)
+  - title: Unsupervised Machine Learning for Anomaly Localization in Optical Amplifiers using Real Network Telemetry Data
+    url: "https://drive.google.com/file/d/17D3DuBl1JrNJbZlC62W12vGTYsRmJT4E/view?usp=sharing"
   - title: Network-Wide QoT Estimation Using SGD with Gradient Transfer Between Wavelengths
-    url: "#"
+    url: "https://drive.google.com/file/d/1EpfF0v_3yI6WRsG3RvRUCKGuD6h46WhS/view?usp=sharing"
 
 - name: MBA in Big Data & Business Analytics
   icon: fa-microscope
@@ -76,5 +78,5 @@ degrees:
     name: Liceu de Artes e Ofícios de São Paulo
   grade:
     scale: CGPA
-    achieved: 7
+    achieved: 7.5
     outOf: 10

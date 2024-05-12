@@ -3,7 +3,7 @@ section:
   name: Skills
   id: skills
   enable: true
-  weight: 3
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -24,39 +24,43 @@ skills:
   logo: "/images/sections/flutter.png"
   summary: "Developed many android apps using this beautiful programming language. Great for creating prototypes of ideas."
 
-- name: Git + Github
-  logo: "/images/sections/github.png"
-  summary: "I use git and github daily in my projects."
-
 - name: SQL
   logo: "/images/sections/sql.png"
-  summary: "Basic knowledge with the tool. Used in some apps and classes."
+  summary: "Use to interact with databases in some apps and to perform queries in Google Big Query."
 
-- name: Linux
-  logo: "/images/sections/linux.png"
-  summary: "I am used to work with Linux operating system and its command-line interface."
-  
 - name: Power BI
   logo: "/images/sections/power bi.png"
   summary: "Created dashboards for my sales team at Siemens for meetings and monitoring of metrics."
 
-- name: Firebase
-  logo: "/images/sections/firebase.png"
+- name: Google Cloud
+  logo: "/images/sections/google cloud.png"
   summary: "I created an app that used Firebase as database to store user infos."
+
+- name: Git + Github + Gitlab
+  logo: "/images/sections/github.png"
+  summary: "I use git and github daily in my projects and at work."
+
+- name: Angular
+  logo: "/images/sections/angular.png"
+  summary: "I develop front-web webpages in angular"
 
 - name: Arduino
   logo: "/images/sections/arduino.png"
-  summary: "Doing arduino projects since 2012."
+  summary: "Doing electronics projects since 2012."
 
 - name: Altium
   logo: "/images/sections/altium.png"
   summary: "I did a lot of PCBs projects using Altium as development platform."
-  
+
+- name: Linux
+  logo: "/images/sections/linux.png"
+  summary: "I am used to work with Linux operating system and its command-line interface."
+
 - name: Marketing
   logo: "/images/sections/marketing.png"
   summary: "I was the marketing coordinator at Equipe Phoenix de Robótica da Unicamp developing the website, flyers, social media posts, creating videos etc..."
 
 - name: Entrepreneurship
   logo: "/images/sections/enterpreneurship.png"
-  summary: "I developed a music social network in 2020 called Davai available at Play Store."
-  url: "https://play.google.com/store/apps/details?id=com.davai.davai_app&pli=1"
+  summary: "I developed a music social network in 2020 called Davai."
+  url: "https://www.instagram.com/davai_app/"

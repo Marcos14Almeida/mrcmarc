@@ -6,7 +6,7 @@ description: Electronics Projects
 theme: Toha
 menu:
   sidebar:
-    name: Electronics Projects
+    name: 14-Electronics Projects
     identifier: electronics
     parent: projects
     weight: 500

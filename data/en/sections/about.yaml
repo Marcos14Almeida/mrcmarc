@@ -20,10 +20,11 @@ company:
 
 # a summary about you
 summary: | 
-    I am a passionate about machine learning and I'm always doing projects and researching. The possibility of having an idea that can help someone is what motivates me to work and learn about data science every day. 
+    I am passionate about machine learning and I'm always doing projects and researching. The possibility of having an idea that can help someone is what motivates me to work and learn about data science every day. 
     
-    Currently I'm working with SGD optimization in the development of a fiber optics network digital twin for my master's thesis. 
-
+    In my master's degree I study ML-based unsupervised anomaly detection in time-series applied to optical fibers. 
+    
+    I'm also a Trainee at a startup where I develop computer vision solutions with YOLO, perform Front-end with Angular, Back-end tasks with C# and data analysis with SQL and Power BI.
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -41,7 +42,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/marcos-a-05b048123/"
+  url: "https://www.linkedin.com/in/marcosmaso/"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
@@ -80,12 +81,12 @@ softSkills:
 - name: Research
   percentage: 100
   color: pink
-- name: IoT
+- name: Data Analysis
   percentage: 100
   color: blue
 - name: Team Work
   percentage: 100
   color: green
-- name: Innovation
+- name: Computer Vision
   percentage: 100
   color: orange

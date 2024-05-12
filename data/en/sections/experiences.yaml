@@ -3,13 +3,31 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
 
 # Your experiences
 experiences:
+- company:
+    name: Mottu
+    url: "https://mottu.com.br/"
+    location: São Paulo, Brazil
+    # company overview
+    overview: Prevention and Loss Trainee to improve the management of the company's motorcycle fleet
+  positions:
+  - designation: Trainee
+    start: November 2023
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end:
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Data analysis with Excel, Google Cloud Platform (GCP), SQL and development of dashboards with Power BI.
+    - Development of a computer vision project for license plate recognition with YOLOv8 and OCR using Python, Docker and Big Query to avoid losses and better manage a fleet of 70 thousand motorcycles.
+    - Led the planning and execution of an application for monitoring the entry and exit of motorcycles using UX design, Figma and Flutter to be implemented in more than 50 branches.
+    - Development of webpages with Angular and API creation with C#. 
+
 - company:
     name: Samsung Electronics
     # url: "https://www.example.com"
@@ -28,12 +46,12 @@ experiences:
     - Develop a Bayesian Neural Network applicable to any model using pytorch library.
 
 - company:
-    name: Siemens
-    # url: "https://example.com"
+    name: Siemens Energy
+    url: "https://www.siemens.com/br/pt/empresa/sobre-a-siemens/siemens-energy.html"
     location: Jundiaí, Brazil
     overview: Internship to help and monitore the sales team to achieve their goals
   positions:
-  - designation: Sales Intern
+  - designation: Sales Business Analytics Intern
     start: Jan 2021
     end: Dec 2021
     responsibilities:
@@ -43,7 +61,7 @@ experiences:
 
 - company:
     name: Equipe Phoenix de Robótica da Unicamp
-    # url: "https://example.com"
+    url: "https://www.instagram.com/phoenixunicamp/"
     location: Campinas, Brazil
     overview: Extracurricular robotics project for student competitions
   positions:

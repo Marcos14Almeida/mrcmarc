@@ -16,9 +16,15 @@ accomplishments:
   organization:
     name: Google
     url: https://www.cloudskillsboost.google/journeys
-  courseOverview: Google Cloud courses completed by me.
+  courseOverview: Includes Generative AI Fundamentals, Big Data and Machine Learning Fundamentals and much more.
   certificateURL: "https://www.cloudskillsboost.google/public_profiles/927a0fc2-721a-4ca6-a937-45540f18607b"
 
+- name: Google UX Design
+  organization:
+    name: Google
+    url: https://www.coursera.org/professional-certificates/ux-design-do-google
+  courseOverview: Start the UX Design Process and Build Dynamic User Interfaces (UI) for Websites.
+  certificateURL: "https://drive.google.com/file/d/1uaLIz0FEgZVX-5Zqk96kCDAezQf5Jntw/view?usp=sharing"
 
 - name: Microsoft Power BI for Data Science, Version 2.0
   timeline: "Apr 2021"

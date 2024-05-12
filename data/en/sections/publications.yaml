@@ -12,18 +12,34 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Optical Communications"
-  filter: "optical-communications"
 
 # your publications
 publications:
+- title: Unsupervised Machine Learning for Anomaly Localization in Optical Amplifiers using Real Network Telemetry Data
+  publishedIn:
+    name: 2024 European Conference on Optical Communication (ECOC)
+    date: 28 April 2024
+    url: https://www.ecocexhibition.com/
+  authors:
+  - name: Marcos P. A. Dal Maso
+  - name: Kayol S. Mayer
+    # url: https://example.com
+  - name: Andres F. Escallón-Portilla
+  - name: Darli A. A. Mello
+  - name: Dalton S. Arantes
+  - name: Christian E. Rothenberg
+  paper:
+    summary: We propose an unsupervised ML approach to localize optical amplifier anomalies using input-output power time series. Tested on real optical network telemetry data, our method successfully identified a faulty amplifier.
+    url: https://drive.google.com/file/d/17D3DuBl1JrNJbZlC62W12vGTYsRmJT4E/view?usp=sharing
+  categories: ["machinelearning", "time-series", "optical-communications", "anomaly-detection"]
+  tags: ["Machine Learning", "time-series", "Optical Communications", "anomaly-detection"]
+
+
 - title: Network-Wide QoT Estimation Using SGD with Gradient Transfer Between Wavelengths.
   publishedIn:
     name: 2023 European Conference on Optical Communication (ECOC)
     date: 5 May 2023
-    url: https://example.com
+    url: https://www.ecocexhibition.com/
   authors:
   - name: Kayol S. Mayer
     # url: https://example.com
@@ -34,6 +50,6 @@ publications:
   - name: Darli A. A. Mello
   paper:
     summary: We propose an SGD-based QoT estimation technique that operates on a network-wide scale by transferring gradients among neighboring wavelengths. Simulation results indicate effective and low-complexity QoT estimation using only transponder SNR telemetry.
-  # url: https://example.com
+    url: https://drive.google.com/file/d/1EpfF0v_3yI6WRsG3RvRUCKGuD6h46WhS/view?usp=sharing
   categories: ["machinelearning", "digital-twins", "optical-communications", "stochastic-gradient-descent"]
   tags: ["Machine Learning", "Digital Twins", "Optical Communications"]
