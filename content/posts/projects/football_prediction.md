@@ -1,6 +1,6 @@
 ---
 title: "Football Standings Prediction"
-hero: /images/projects/solidario.jpeg
+hero: /images/projects/prediction.png
 date: 2024-12-10T20:08:28-03:00
 description: Football Standings prediction using time-series
 theme: Toha
